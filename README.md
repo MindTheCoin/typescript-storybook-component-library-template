@@ -1,6 +1,11 @@
-# shiny
+# Component library template
 
-Reference used for creating the build: https://prateeksurana.me/blog/react-component-library-using-storybook-6/, https://pretagteam.com/question/rollup-react-17-with-new-jsx-transform-react-is-not-defined
-https://medium.com/edonec/create-react-17-typescript-with-eslint-webpack-scss-c4cdbedc31f6
+A working template with build and storybook for a Typescript + React 17 component libary, based on https://prateeksurana.me/blog/react-component-library-using-storybook-6/.
 
-TODO: code splitting https://github.com/rollup/rollup-starter-code-splitting
+Run `yarn build` to get your build under `lib`.
+
+## TODO
+
+- Add Jest setup for tests.
+- Automate publishing with Github actions.
+- Code splitting https://github.com/rollup/rollup-starter-code-splitting
