@@ -4,7 +4,6 @@
   "repository": "git@github.com:MindTheCoin/typescript-storybook-component-library-template.git",
   "author": "Claudia Matosa <claudiamatosa@users.noreply.github.com>",
   "license": "MIT",
-  "private": true,
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
