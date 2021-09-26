@@ -6,6 +6,5 @@ Run `yarn build` to get your build under `lib`.
 
 ## TODO
 
-- Add Jest setup for tests.
 - Automate publishing with Github actions.
 - Code splitting https://github.com/rollup/rollup-starter-code-splitting
